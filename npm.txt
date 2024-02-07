@@ -1,0 +1,5 @@
+sudo apt install npm
+npm init > licence = "MIT"
+npm install next@13.1.6
+
+npm install react@18.2.0
