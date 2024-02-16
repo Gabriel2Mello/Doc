@@ -1,0 +1,2 @@
+mkdir pages
+echo > index.js

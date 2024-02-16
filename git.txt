@@ -2,3 +2,6 @@ git config --global user.name ""
 git config --global user.email ""
 
 git clone https://github.com/Gabriel2Mello/clone-tabnews.git
+
+echo "node_modeles" > ".gitignore"
+echo ".next" >> .gitignore
