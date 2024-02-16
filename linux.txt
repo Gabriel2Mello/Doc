@@ -1,2 +1,6 @@
 sudo apt update 
 sudo apt upgrade
+
+
+echo "Welcome GFG" > output.txt
+If we want to append the output in an existing file, we use `>>` instead of `>`.
