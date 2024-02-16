@@ -1,3 +1,5 @@
+npm = new pm
+
 sudo apt install npm
 npm init > licence = "MIT"
 npm install next@13.1.6
